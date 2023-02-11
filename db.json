@@ -1,0 +1,924 @@
+{
+    "bankname":[
+        {
+            "id": 1,
+            "bankname": "ABHYUDAYA_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 2,
+            "bankname": "THE_AKOLA_DISTRICT_CENTRAL_COOPERATIVE_BANK"
+        },
+        {
+            "id": 3,
+            "bankname": "THE_AHMEDNAGAR_DISTRICT_CENTRAL_CO-OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 4,
+            "bankname": "AIRTEL_PAYMENTS_BANK_LIMITED"
+        },
+        {
+            "id": 5,
+            "bankname": "THE_AJARA_URBAN_CO_OP_BANK_LTD_AJARA"
+        },
+        {
+            "id": 6,
+            "bankname": "AMBARNATH_JAIHIND_COOP_BANK_LTD_AMBARNATH"
+        },
+        {
+            "id": 7,
+            "bankname": "AKOLA_JANATA_COMMERCIAL_COOPERATIVE_BANK"
+        },
+        {
+            "id": 8,
+            "bankname": "AHMEDABAD_MERCANTILE_COOPERATIVE_BANK"
+        },
+        {
+            "id": 9,
+            "bankname": "AHMEDNAGAR_MERCHANTS_CO-OP_BANK_LTD"
+        },
+        {
+            "id": 10,
+            "bankname": "AUSTRALIA_AND_NEW_ZEALAND_BANKING_GROUP_LIMITED"
+        },
+        {
+            "id": 11,
+            "bankname": "THE_ANDHRA_PRADESH_STATE_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 12,
+            "bankname": "ANDHRA_PRAGATHI_GRAMEENA_BANK"
+        },
+        {
+            "id": 13,
+            "bankname": "ANDHRA_PRADESH_GRAMEENA_VIKAS_BANK"
+        },
+        {
+            "id": 14,
+            "bankname": "THE_A.P._MAHESH_COOPERATIVE_URBAN_BANK_LIMITED"
+        },
+        {
+            "id": 15,
+            "bankname": "ARVIND_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 16,
+            "bankname": "APNA_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 17,
+            "bankname": "AU_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 18,
+            "bankname": "ALMORA_URBAN_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 19,
+            "bankname": "BASSEIN_CATHOLIC_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 20,
+            "bankname": "THE_BARAMATI_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 21,
+            "bankname": "BANK_OF_BARODA"
+        },
+        {
+            "id": 22,
+            "bankname": "BARCLAYS_BANK"
+        },
+        {
+            "id": 23,
+            "bankname": "BANK_OF_BAHARAIN_AND_KUWAIT_BSC"
+        },
+        {
+            "id": 24,
+            "bankname": "BHARAT_COOPERATIVE_BANK_MUMBAI_LIMITED"
+        },
+        {
+            "id": 25,
+            "bankname": "BANK_OF_CEYLON"
+        },
+        {
+            "id": 26,
+            "bankname": "BANDHAN_BANK_LIMITED"
+        },
+        {
+            "id": 27,
+            "bankname": "BANK_OF_INDIA"
+        },
+        {
+            "id": 28,
+            "bankname": "BOMBAY_MERCANTILE_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 29,
+            "bankname": "B_N_P_PARIBAS"
+        },
+        {
+            "id": 30,
+            "bankname": "BHAGINI_NIVEDITA_SAHAKARI_BANK_LTD_PUNE"
+        },
+        {
+            "id": 31,
+            "bankname": "BANK_OF_AMERICA"
+        },
+        {
+            "id": 32,
+            "bankname": "MUFG_BANK,_LTD"
+        },
+        {
+            "id": 33,
+            "bankname": "CENTRAL_BANK_OF_INDIA"
+        },
+        {
+            "id": 34,
+            "bankname": "CITIZEN_CREDIT_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 35,
+            "bankname": "JP_MORGAN_BANK"
+        },
+        {
+            "id": 36,
+            "bankname": "CITI_BANK"
+        },
+        {
+            "id": 37,
+            "bankname": "CITY_UNION_BANK_LIMITED"
+        },
+        {
+            "id": 38,
+            "bankname": "CAPITAL_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 39,
+            "bankname": "CANARA_BANK"
+        },
+        {
+            "id": 40,
+            "bankname": "COASTAL_LOCAL_AREA_BANK_LTD"
+        },
+        {
+            "id": 41,
+            "bankname": "THE_COSMOS_CO_OPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 42,
+            "bankname": "CREDIT_SUISEE_AG"
+        },
+        {
+            "id": 43,
+            "bankname": "CHHATTISGARH_RAJYA_GRAMIN_BANK"
+        },
+        {
+            "id": 44,
+            "bankname": "CREDIT_AGRICOLE_CORPORATE_AND_INVESTMENT_BANK_CALYON_BANK"
+        },
+        {
+            "id": 45,
+            "bankname": "SHRI_CHHATRAPATI_RAJASHRI_SHAHU_URBAN_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 46,
+            "bankname": "CSB_BANK_LIMITED"
+        },
+        {
+            "id": 47,
+            "bankname": "CTBC_BANK_CO_LTD"
+        },
+        {
+            "id": 48,
+            "bankname": "DBS_BANK_INDIA_LIMITED"
+        },
+        {
+            "id": 49,
+            "bankname": "DCB_BANK_LIMITED"
+        },
+        {
+            "id": 50,
+            "bankname": "DARUSSALAM_CO_OPERATIVE_URBAN_BANK_LTD"
+        },
+        {
+            "id": 51,
+            "bankname": "DEOGIRI_NAGARI_SAHAKARI_BANK_LTD._AURANGABAD"
+        },
+        {
+            "id": 52,
+            "bankname": "DEUSTCHE_BANK"
+        },
+        {
+            "id": 53,
+            "bankname": "DEPOSIT_INSURANCE_AND_CREDIT_GUARANTEE_CORPORATION"
+        },
+        {
+            "id": 54,
+            "bankname": "THE_DELHI_STATE_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 55,
+            "bankname": "DHANALAKSHMI_BANK"
+        },
+        {
+            "id": 56,
+            "bankname": "DMK_JAOLI_BANK"
+        },
+        {
+            "id": 57,
+            "bankname": "DOMBIVLI_NAGARI_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 58,
+            "bankname": "DOHA_BANK"
+        },
+        {
+            "id": 59,
+            "bankname": "DURGAPUR_STEEL_PEOPLES_CO-OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 60,
+            "bankname": "EMIRATES_NBD_BANK_(P.J.S.C)"
+        },
+        {
+            "id": 61,
+            "bankname": "EXPORT_IMPORT_BANK_OF_INDIA"
+        },
+        {
+            "id": 62,
+            "bankname": "EQUITAS_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 63,
+            "bankname": "ESAF_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 64,
+            "bankname": "FEDERAL_BANK"
+        },
+        {
+            "id": 65,
+            "bankname": "FINO_PAYMENTS_BANK"
+        },
+        {
+            "id": 66,
+            "bankname": "FIRSTRAND_BANK_LIMITED"
+        },
+        {
+            "id": 67,
+            "bankname": "FINCARE_SMALL_FINANCE_BANK_LTD"
+        },
+        {
+            "id": 68,
+            "bankname": "THE_GREATER_BOMBAY_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 69,
+            "bankname": "THE_GADCHIROLI_DISTRICT_CENTRAL_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 70,
+            "bankname": "THE_GUJARAT_STATE_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 71,
+            "bankname": "HARYANA_STATE_COOPERATIVE_BANK"
+        },
+        {
+            "id": 72,
+            "bankname": "THE_HASTI_COOP_BANK_LTD"
+        },
+        {
+            "id": 73,
+            "bankname": "HDFC_BANK"
+        },
+        {
+            "id": 74,
+            "bankname": "HIMACHAL_PRADESH_STATE_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 75,
+            "bankname": "HSBC_BANK"
+        },
+        {
+            "id": 76,
+            "bankname": "HUTATMA_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 77,
+            "bankname": "WOORI_BANK"
+        },
+        {
+            "id": 78,
+            "bankname": "PT_BANK_MAYBANK_INDONESIA_TBK"
+        },
+        {
+            "id": 79,
+            "bankname": "IDBI_BANK"
+        },
+        {
+            "id": 80,
+            "bankname": "INDUSTRIAL_BANK_OF_KOREA"
+        },
+        {
+            "id": 81,
+            "bankname": "INDUSTRIAL_AND_COMMERCIAL_BANK_OF_CHINA_LIMITED"
+        },
+        {
+            "id": 82,
+            "bankname": "ICICI_BANK_LIMITED"
+        },
+        {
+            "id": 83,
+            "bankname": "IDFC_FIRST_BANK_LTD"
+        },
+        {
+            "id": 84,
+            "bankname": "INDIAN_BANK"
+        },
+        {
+            "id": 85,
+            "bankname": "IDUKKI_DISTRICT_CO_OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 86,
+            "bankname": "INDUSIND_BANK"
+        },
+        {
+            "id": 87,
+            "bankname": "INDIAN_OVERSEAS_BANK"
+        },
+        {
+            "id": 88,
+            "bankname": "INDIA_POST_PAYMENT_BANK"
+        },
+        {
+            "id": 89,
+            "bankname": "IRINJALAKUDA_TOWN_CO-OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 90,
+            "bankname": "JAMMU_AND_KASHMIR_BANK_LIMITED"
+        },
+        {
+            "id": 91,
+            "bankname": "JANASEVA_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 92,
+            "bankname": "JANASEVA_SAHAKARI_BANK_BORIVLI_LIMITED"
+        },
+        {
+            "id": 93,
+            "bankname": "JIO_PAYMENTS_BANK_LIMITED"
+        },
+        {
+            "id": 94,
+            "bankname": "JALGAON_JANATA_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 95,
+            "bankname": "THE_JALGAON_PEOPELS_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 96,
+            "bankname": "JANAKALYAN_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 97,
+            "bankname": "JANATA_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 98,
+            "bankname": "JANA_SMALL_FINANCE_BANK_LTD"
+        },
+        {
+            "id": 99,
+            "bankname": "JANATHA_SEVA_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 100,
+            "bankname": "THE_KANGRA_CENTRAL_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 101,
+            "bankname": "KALLAPPANNA_AWADE_ICHALKARANJI_JANATA_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 102,
+            "bankname": "THE_KANGRA_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 103,
+            "bankname": "KARNATAKA_BANK_LIMITED"
+        },
+        {
+            "id": 104,
+            "bankname": "KOOKMIN_BANK"
+        },
+        {
+            "id": 105,
+            "bankname": "KALUPUR_COMMERCIAL_COOPERATIVE_BANK"
+        },
+        {
+            "id": 106,
+            "bankname": "KOZHIKODE_DISTRICT_COOPERATIAVE_BANK_LTD"
+        },
+        {
+            "id": 107,
+            "bankname": "THE_KALYAN_JANATA_SAHAKARI_BANK_LTD."
+        },
+        {
+            "id": 108,
+            "bankname": "KOTAK_MAHINDRA_BANK_LIMITED"
+        },
+        {
+            "id": 109,
+            "bankname": "KERALA_GRAMIN_BANK"
+        },
+        {
+            "id": 110,
+            "bankname": "THE_KURMANCHAL_NAGAR_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 111,
+            "bankname": "KEB_HANA_BANK"
+        },
+        {
+            "id": 112,
+            "bankname": "THE_KOLHAPUR_URBAN_CO-OP_BANK_LTD"
+        },
+        {
+            "id": 113,
+            "bankname": "THE_KERALA_STATE_CO_OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 114,
+            "bankname": "THE_KARANATAKA_STATE_COOPERATIVE_APEX_BANK_LIMITED"
+        },
+        {
+            "id": 115,
+            "bankname": "THE_KARNATAKA_STATE_COOPERATIVE_APEX_BANK_LTD"
+        },
+        {
+            "id": 116,
+            "bankname": "THE_KARAD_URBAN_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 117,
+            "bankname": "KARUR_VYSYA_BANK"
+        },
+        {
+            "id": 118,
+            "bankname": "KARNATAKA_VIKAS_GRAMEENA_BANK"
+        },
+        {
+            "id": 119,
+            "bankname": "BANK_OF_MAHARASHTRA"
+        },
+        {
+            "id": 120,
+            "bankname": "MAHARASHTRA_GRAMIN_BANK"
+        },
+        {
+            "id": 121,
+            "bankname": "THE_MEGHALAYA_CO-OPERATIVE_APEX_BANK_LTD"
+        },
+        {
+            "id": 122,
+            "bankname": "GS_MAHANAGAR_CO-OPERATIVE_BANK_LIMITED,_MUMBAI"
+        },
+        {
+            "id": 123,
+            "bankname": "MODEL_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 124,
+            "bankname": "THE_MUMBAI_DISTRICT_CENTRAL_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 125,
+            "bankname": "MIZUHO_BANK_LTD"
+        },
+        {
+            "id": 126,
+            "bankname": "THE_MALKAPUR_URBAN_CO_OPERATIVE_BANK_LTD_MALKAPUR"
+        },
+        {
+            "id": 127,
+            "bankname": "MAHESH_SAHAKARI_BANK_LTD_PUNE"
+        },
+        {
+            "id": 128,
+            "bankname": "MAHARASHTRA_STATE_COOPERATIVE_BANK"
+        },
+        {
+            "id": 129,
+            "bankname": "MASHREQBANK_PSC"
+        },
+        {
+            "id": 130,
+            "bankname": "THE_MUSLIM_CO-OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 131,
+            "bankname": "THE_MEHSANA_URBAN_COOPERATIVE_BANK"
+        },
+        {
+            "id": 132,
+            "bankname": "THE_MUNICIPAL_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 133,
+            "bankname": "SIR_M_VISVESVARAYA_CO_OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 134,
+            "bankname": "FIRST_ABU_DHABI_BANK_PJSC"
+        },
+        {
+            "id": 135,
+            "bankname": "NATIONAL_BANK_FOR_AGRICULTURE_AND_RURAL_DEVELOPMENT"
+        },
+        {
+            "id": 136,
+            "bankname": "THE_NILAMBUR_CO_OPERATIVE_URBAN_BANK_LTD_NILAMBUR"
+        },
+        {
+            "id": 137,
+            "bankname": "NORTH_EAST_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 138,
+            "bankname": "NAGPUR_NAGARIK_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 139,
+            "bankname": "NEW_INDIA_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 140,
+            "bankname": "NAV_JEEVAN_CO_OP_BANK_LTD"
+        },
+        {
+            "id": 141,
+            "bankname": "NKGSB_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 142,
+            "bankname": "THE_NASIK_MERCHANTS_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 143,
+            "bankname": "NUTAN_NAGARIK_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 144,
+            "bankname": "THE_BANK_OF_NOVA_SCOTIA"
+        },
+        {
+            "id": 145,
+            "bankname": "NSDL_PAYMENTS_BANK_LIMITED"
+        },
+        {
+            "id": 146,
+            "bankname": "THE_NAINITAL_BANK_LIMITED"
+        },
+        {
+            "id": 147,
+            "bankname": "THE_NAVNIRMAN_CO-OPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 148,
+            "bankname": "THE_ODISHA_STATE_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 149,
+            "bankname": "G_P_PARSIK_BANK"
+        },
+        {
+            "id": 150,
+            "bankname": "KARNATAKA_GRAMIN_BANK"
+        },
+        {
+            "id": 151,
+            "bankname": "PRIME_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 152,
+            "bankname": "PAVANA_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 153,
+            "bankname": "PUNJAB_AND_SIND_BANK"
+        },
+        {
+            "id": 154,
+            "bankname": "THE_PANDHARPUR_URBAN_CO_OP._BANK_LTD._PANDHARPUR"
+        },
+        {
+            "id": 155,
+            "bankname": "PUNJAB_NATIONAL_BANK"
+        },
+        {
+            "id": 156,
+            "bankname": "THE_PUSAD_URBAN_COOPERATIVE_BANK_LTD_PUSAD"
+        },
+        {
+            "id": 157,
+            "bankname": "PAYTM_PAYMENTS_BANK_LTD"
+        },
+        {
+            "id": 158,
+            "bankname": "QATAR_NATIONAL_BANK_SAQ"
+        },
+        {
+            "id": 159,
+            "bankname": "RABOBANK_INTERNATIONAL"
+        },
+        {
+            "id": 160,
+            "bankname": "RBL_BANK_LIMITED"
+        },
+        {
+            "id": 161,
+            "bankname": "RESERVE_BANK_OF_INDIA"
+        },
+        {
+            "id": 162,
+            "bankname": "RAJNANDGAON_DISTRICT_CENTRAL_CO-OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 163,
+            "bankname": "RAJASTHAN_MARUDHARA_GRAMIN_BANK"
+        },
+        {
+            "id": 164,
+            "bankname": "RAJKOT_NAGRIK_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 165,
+            "bankname": "RAJARAMBAPU_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 166,
+            "bankname": "RAJGURUNAGAR_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 167,
+            "bankname": "THE_RAJASTHAN_STATE_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 168,
+            "bankname": "RAJARSHI_SHAHU_SAHAKARI_BANK_LTDPUNE"
+        },
+        {
+            "id": 169,
+            "bankname": "SBER_BANK"
+        },
+        {
+            "id": 170,
+            "bankname": "SANT_SOPANKAKA_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 171,
+            "bankname": "STATE_BANK_OF_INDIA"
+        },
+        {
+            "id": 172,
+            "bankname": "SAMARTH_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 173,
+            "bankname": "STANDARD_CHARTERED_BANK"
+        },
+        {
+            "id": 174,
+            "bankname": "THE_SURAT_DISTRICT_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 175,
+            "bankname": "THE_SATARA_DISTRICT_CENTRAL_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 176,
+            "bankname": "SREE_CHARAN_SOUHARDHA_CO_OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 177,
+            "bankname": "SAURASHTRA_GRAMIN_BANK"
+        },
+        {
+            "id": 178,
+            "bankname": "SHINHAN_BANK"
+        },
+        {
+            "id": 179,
+            "bankname": "SOUTH_INDIAN_BANK"
+        },
+        {
+            "id": 180,
+            "bankname": "THE_SINDHUDURG_DISTRICT_CENTRAL_COOP_BANK_LTD"
+        },
+        {
+            "id": 181,
+            "bankname": "SOLAPUR_JANATA_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 182,
+            "bankname": "SHREE_KADI_NAGARIK_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 183,
+            "bankname": "SHIKSHAK_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 184,
+            "bankname": "SUMITOMO_MITSUI_BANKING_CORPORATION"
+        },
+        {
+            "id": 185,
+            "bankname": "SHIVALIK_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 186,
+            "bankname": "SMRITI_NAGRIK_SAHAKARI_BANK_MARYADIT"
+        },
+        {
+            "id": 187,
+            "bankname": "SARASPUR_NAGRIK_CO_OPERATIVE_BANK_LTD_SARASPUR"
+        },
+        {
+            "id": 188,
+            "bankname": "SOCIETE_GENERALE"
+        },
+        {
+            "id": 189,
+            "bankname": "THE_SURATH_PEOPLES_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 190,
+            "bankname": "SARASWAT_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 191,
+            "bankname": "SBM_BANK_INDIA_LIMITED"
+        },
+        {
+            "id": 192,
+            "bankname": "SURAT_NATIONAL_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 193,
+            "bankname": "SURYODAY_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 194,
+            "bankname": "SUCO_SOUHARDA_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 195,
+            "bankname": "SUTEX_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 196,
+            "bankname": "THE_SHAMRAO_VITHAL_COOPERATIVE_BANK"
+        },
+        {
+            "id": 197,
+            "bankname": "SHRI_VEERSHAIV_CO_OP_BANK_LTD"
+        },
+        {
+            "id": 198,
+            "bankname": "THE_AKOLA_URBAN_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 199,
+            "bankname": "THE_BANASKANTHA_MERCANTILE_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 200,
+            "bankname": "THE_THANE_BHARAT_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 201,
+            "bankname": "THE_THANE_DISTRICT_CENTRAL_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 202,
+            "bankname": "TUMKUR_GRAIN_MERCHANTS_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 203,
+            "bankname": "THRISSUR_DISTRICT_CO-OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 204,
+            "bankname": "TJSB_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 205,
+            "bankname": "TAMILNAD_MERCANTILE_BANK_LIMITED"
+        },
+        {
+            "id": 206,
+            "bankname": "THE_MALAD_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 207,
+            "bankname": "THE_NAWANAGAR_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 208,
+            "bankname": "THE_TAMIL_NADU_STATE_APEX_COOPERATIVE_BANK"
+        },
+        {
+            "id": 209,
+            "bankname": "THE_PUNJAB_STATE_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 210,
+            "bankname": "TELANGANA_STATE_COOP_APEX_BANK"
+        },
+        {
+            "id": 211,
+            "bankname": "SATARA_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 212,
+            "bankname": "TEXTILE_TRADERS_CO_OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 213,
+            "bankname": "UNION_BANK_OF_INDIA"
+        },
+        {
+            "id": 214,
+            "bankname": "UCO_BANK"
+        },
+        {
+            "id": 215,
+            "bankname": "UJJIVAN_SMALL_FINANCE_BANK_LIMITED"
+        },
+        {
+            "id": 216,
+            "bankname": "UNITED_OVERSEAS_BANK_LIMITED"
+        },
+        {
+            "id": 217,
+            "bankname": "UTTAR_PRADESH_COOPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 218,
+            "bankname": "THE_URBAN_CO_OPERATIVE_BANK_LTD_NO_ONE_SEVEN_FIVE_EIGHT_PERINTHALMANNA"
+        },
+        {
+            "id": 219,
+            "bankname": "AXIS_BANK"
+        },
+        {
+            "id": 220,
+            "bankname": "UTKARSH_SMALL_FINANCE_BANK"
+        },
+        {
+            "id": 221,
+            "bankname": "THE_UDAIPUR_URBAN_CO_OPERATIVE_BANK_LTD"
+        },
+        {
+            "id": 222,
+            "bankname": "THE_VARACHHA_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 223,
+            "bankname": "VASAI_JANATA_SAHAKARI_BANK_LTD"
+        },
+        {
+            "id": 224,
+            "bankname": "THE_VIJAY_CO_OPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 225,
+            "bankname": "THE_VISHWESHWAR_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 226,
+            "bankname": "VASAI_VIKAS_SAHAKARI_BANK_LIMITED"
+        },
+        {
+            "id": 227,
+            "bankname": "THE_WEST_BENGAL_STATE_COOPERATIVE_BANK"
+        },
+        {
+            "id": 228,
+            "bankname": "YES_BANK"
+        },
+        {
+            "id": 229,
+            "bankname": "THE_ZOROASTRIAN_COOPERATIVE_BANK_LIMITED"
+        },
+        {
+            "id": 230,
+            "bankname": "ZILA_SAHAKRI_BANK_LIMITED_GHAZIABAD"
+        }
+    ]  
+}
